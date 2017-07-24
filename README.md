@@ -1,4 +1,4 @@
-# EthExplorer (In Progress)
+# EthExplorer (GamerBit version)
 
 ![EthExplorer Screenshot](http://i.imgur.com/NHFYq0x.png)
 
